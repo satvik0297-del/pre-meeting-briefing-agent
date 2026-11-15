@@ -16,7 +16,7 @@
 
 ---
 
-## 😩 The problem
+## ⚠️ The problem
 
 Before an important meeting you end up with 15 browser tabs, half-remembered headlines, and AI summaries that sound confident but may be **made up**.
 
