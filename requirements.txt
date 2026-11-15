@@ -1,0 +1,6 @@
+tavily-python
+google-genai
+ipython
+streamlit
+reportlab
+openai
