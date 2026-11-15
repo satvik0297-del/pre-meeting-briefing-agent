@@ -172,17 +172,16 @@ Screenshots of the application will be added here.
 
 ### 1. Application Interface
 
-![Application Interface](screenshots/app-interface.png)
+![Application Interface](https://github.com/satvik0297-del/pre-meeting-briefing-agent/blob/main/Application%20Interface.png?raw=true)
 
 ### 2. Generated Meeting Briefing
 
-![Generated Briefing](screenshots/generated-briefing.png)
+![Generated Briefing](https://github.com/satvik0297-del/pre-meeting-briefing-agent/blob/main/Generated%20Meeting%20Briefing%20.png?raw=true)
 
 ### 3. PDF Report
 
-![PDF Report](screenshots/pdf-report.png)
+![PDF Report](https://github.com/satvik0297-del/pre-meeting-briefing-agent/blob/main/PDF%20Report.png?raw=true)
 
-> Screenshot images will be added to the `screenshots/` folder in the repository.
 
 ## ⚠️ Limitations
 
