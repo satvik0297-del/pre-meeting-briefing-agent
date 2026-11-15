@@ -127,7 +127,7 @@ The challenge suggests Bifrost for model requests. We installed it locally, conf
 
 | Member |
 |--------|
-| **Satvik Kapoor ** 
+| **Satvik Kapoor** 
 | **Raj Aryan Mago** 
 
 ---
