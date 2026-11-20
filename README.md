@@ -168,7 +168,7 @@ These examples cover both company-level and individual-level research.
 
 ## 🖥️ Application Preview
 
-Screenshots of the application will be added here.
+Screenshots for the application are included below .
 
 ### 1. Application Interface
 
